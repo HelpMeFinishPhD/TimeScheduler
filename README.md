@@ -1,7 +1,7 @@
 # TimeScheduler 
 A simple scheduler GUI to track how much time we spent (waste) on stuffs (most probably unimportant, actually). 
 
-##A brief (his)story
+## A brief (his)story
 
 Have you ever wondered where has all the time has gone? 
 You came to the office in the morning, and suddenly after checking some (unimportant) emails, it is already lunchtime.
@@ -12,13 +12,9 @@ This simple app will let you track how much time you spend on stuffs, so you won
 
 This project was inspired by a friend of mine who often goes in some kind of time black hole. He probably needs something to reminds him if he sacrifices too much time on something with minimal benefit. 
 
-##How to use and run the app
+## How to use and run the app
 
-First, check whether you are using any Linux distros. If not, then goodluck.
-
-Second, check whether you have installed Python (version 2.7) and PyQt4. If not, then google.
-
-Hint: minimal editing are required to run the program in Windows or Mac, python3 or other version of PyQt.
+First, check whether you are using any Linux distros. If not, then goodluck. Second, check whether you have installed Python (version 2.7) and PyQt4. If not, then google how. Hint: minimal editing are required to run the program in Windows or Mac, python3 or other version of PyQt.
 
 The program can be simply run by typing in the terminal:
 ```
