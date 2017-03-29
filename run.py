@@ -17,6 +17,12 @@
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 """
 
+# Run from current working directory (if you created symlink thingy)
+import os
+realpath = os.path.realpath(__file__)
+dname = os.path.dirname(realpath)
+os.chdir(dname)
+
 import sys
 import glob
 import datetime
