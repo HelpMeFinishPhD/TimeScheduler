@@ -25,3 +25,7 @@ If you want to make the program executable, write in the terminal:
 chmod +x run.py
 ```
 In principle, you can also write a bash script to run the program from say, desktop.
+
+You can change the tasks list by editing the task.conf file. There is also a folder called log where the start and end of the session is logged in a simple text file, which can be processed further for any purposes. You might probably want to delete everything inside the log file to start fresh.
+
+Have fun!
